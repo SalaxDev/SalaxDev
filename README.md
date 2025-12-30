@@ -1,16 +1,26 @@
-## Hi there 👋
+<h3 align="center">C/C++ Developer | Software Engineer | Software Developer</h3>
+<p align="center"> <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg" /> </p>
 
-<!--
-**SalaxDev/SalaxDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi 👋, I'm ***Salax***, a Independent Software Developer who loves create optimized programs and CLI's with C/C++
++ Also worked with:
+    ---------------------
+  | Languages       | Knowledges     |
+  |-----------------|----------------|
+  | C               | Intermidiate   |
+  | C++             | Advanced       |
+  | Java            | Advanced       |
+  | C#              | Intermidiate   |
+  | Python          | Intermidiate   |
+  | html, css, js   | Beginner       |
+  | Lua             | Beginner       |
 
-Here are some ideas to get you started:
+Like my works? Consider Supporting me:
+- ![TON](https://img.shields.io/badge/TON-blue?style=for-the-round&logo=ton&logoColor=white)<sup> :  `UQA-U38DBWVqaodSONlJgzmocWzJ4_WMk1lxHUzJQq92vWcu` </sup>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔨 [Currently Working on:](https://github.com/YOUR_USERNAME/SDL3-Center-Texture-Example)
+
+---
+
+- Ways to Reach me
+  - [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/salaxdev)
+  - [![Telegram](https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/salaxdev)
