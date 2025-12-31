@@ -1,7 +1,7 @@
 <h3 align="center">C/C++ Developer | Software Engineer | Software Developer</h3>
 <p align="center"> <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg" /> </p>
 
-Hi 👋, I'm ***Salax***, an Independent Software Developer who loves create optimized programs and CLI's with C/C++
+Hi 👋, I'm ***Salax***, an Independent Software Developer who loves creating optimized programs and CLI's with C/C++
 + Also worked with:
     ---------------------
   | Languages       | Knowledges     |
